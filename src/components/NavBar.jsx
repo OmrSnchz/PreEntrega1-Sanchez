@@ -8,8 +8,7 @@ function NavBar(){
     <a href="#">Inicio </a>
     <a href="#">Productos </a>
     <a href="#">Finalizar Compra </a>
-    <a href="#"><CartWidget /></a>
-      
+    <CartWidget />
   
     </nav>
   </>
